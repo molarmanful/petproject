@@ -1,0 +1,55 @@
+html, body
+  margin 0
+  padding 0
+  background #443850
+  color #d87cac
+  font-family monospace
+  user-select none
+
+canvas
+  display block
+  position absolute
+  top 50%
+  left 50%
+  transform translate(-50%, -50%)
+  image-rendering crisp-edges
+
+#stats
+  position fixed
+  display none
+  top 0
+  left 0
+  z-index 1
+  margin 1rem
+
+#title
+  position fixed
+  top 50%
+  left 50%
+  transform translate(-50%, -50%)
+  color #d87cac
+  z-index 1
+  text-align center
+
+#ttl
+  font-size 7rem
+
+#subttl
+  animation blink 1s steps(1, end) infinite
+
+#help
+  position fixed
+  bottom 0
+  left 50%
+  transform translateX(-50%)
+  margin 1rem
+  a
+    color #d87cac
+
+@keyframes blink
+  0%
+    opacity 0
+  50%
+    opacity 1
+  0%
+    opacity 0
