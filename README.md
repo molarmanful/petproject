@@ -6,9 +6,9 @@
 
 ## Controls
 
-`Click + Drag` - move pet/food around
-`Q` - place food
-`W` - remove food
+- `Click + Drag` - move pet/food around
+- `Q` - place food
+- `W` - remove food
 
 ## How to Play
 
@@ -34,7 +34,7 @@ When the pet has completely eaten the food source, the above is what the food so
 
 ![stats](media/stats.png)
 
-When you start the game, the top-left corner of the screen will show a list of statistics relating to the pet.
+When you start the game, the top-left corner of the screen will show a list of statistics related to the pet.
 
 ## Misc.
 
