@@ -1,5 +1,7 @@
 # PET
 
+[DEMO](https://bennyboy.tech/petproject)
+
 **PET** is a simple "toy simulation" in which you try to raise a pet using food. This is not meant to be a full-featured game, but rather more of a proof of concept. However, the game is fully playable and showcases a few ideas/mechanics I was experimenting with.
 
 ## Controls
